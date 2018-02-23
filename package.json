@@ -1,9 +1,10 @@
 {
-  "homepage": "https://George-Taxiarchou.github.io/lottery-react",
-  "name": "lottery-react",
+  "homepage": "https://George-Taxiarchou.github.io/Lottery-React",
+  "name": "Lottery-React",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "gh-pages": "^1.1.0",
     "ghpages": "0.0.10",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
