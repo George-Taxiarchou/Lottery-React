@@ -1,5 +1,7 @@
 1.install metamask extentsion on chrome to see and join the lottery
+
 2.change to rinkeby test net
+
 3.you can join only with >0.01 ether
 
 
