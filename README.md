@@ -1,5 +1,7 @@
+1.install metamask extentsion on chrome to see and join the lottery
+2.change to rinkeby test net
+3.you can join only with >0.01 ether
 
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
